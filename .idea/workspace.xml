@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="262c81d1-2e99-4bfe-bf6b-cb69db9b079a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/cdk/lib/api-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/cdk/lib/api-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/cdk/lib/dynamodb-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/cdk/lib/dynamodb-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/cdk/lib/lambda-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/cdk/lib/lambda-stack.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/lambdas/createNote.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/lambdas/createNote.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/lambdas/getNotes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/lambdas/getNotes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/lambdas/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/lambdas/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NikitaKatrenko"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NikitaKatrenko/fwdays-aws-cc-lesson4.git",
+    "accountId": "81be96f5-497d-41c7-995e-7b963a2dc4bd"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="36UHFW3V6Xe0kZNX9XXLetQWVei" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev (1).executor": "Run",
+    "npm.dev .executor": "Run",
+    "npm.dev.executor": "Run",
+    "ts.external.directory.path": "/Users/twoninth/WebstormProjects/fwdays-aws-cc-lesson4/frontend/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JSON",
+      "TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/backend/backend/lambdas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev (1)">
+    <configuration name="dev " type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/front-end/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/blobgram/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="npm.dev " />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="262c81d1-2e99-4bfe-bf6b-cb69db9b079a" name="Changes" comment="" />
+      <created>1765054126313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765054126313</updated>
+      <workItem from="1765054127393" duration="25587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backend/backend/cdk/bin/cdk.d.ts" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/bin/cdk.js" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/lib/dynamodb-stack.d.ts" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/lib/cdk-stack.js" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/lib/api-stack.d.ts" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/lib/dynamodb-stack.js" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/lib/api-stack.js" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/lib/cdk-stack.d.ts" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/lib/lambda-stack.js" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/lib/lambda-stack.d.ts" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/test/cdk.test.d.ts" />
+        <option value="$PROJECT_DIR$/backend/backend/cdk/test/cdk.test.js" />
+        <option value="$PROJECT_DIR$/backend/cdk/bin/cdk.d.ts" />
+        <option value="$PROJECT_DIR$/backend/cdk/bin/cdk.js" />
+        <option value="$PROJECT_DIR$/backend/cdk/lib/dynamodb-stack.d.ts" />
+        <option value="$PROJECT_DIR$/backend/cdk/lib/cdk-stack.js" />
+        <option value="$PROJECT_DIR$/backend/cdk/lib/api-stack.d.ts" />
+        <option value="$PROJECT_DIR$/backend/cdk/lib/dynamodb-stack.js" />
+        <option value="$PROJECT_DIR$/backend/cdk/lib/api-stack.js" />
+        <option value="$PROJECT_DIR$/backend/cdk/lib/cdk-stack.d.ts" />
+        <option value="$PROJECT_DIR$/backend/cdk/lib/lambda-stack.js" />
+        <option value="$PROJECT_DIR$/backend/cdk/lib/lambda-stack.d.ts" />
+        <option value="$PROJECT_DIR$/backend/cdk/test/cdk.test.d.ts" />
+        <option value="$PROJECT_DIR$/backend/cdk/test/cdk.test.js" />
+      </list>
+    </option>
+  </component>
+</project>
